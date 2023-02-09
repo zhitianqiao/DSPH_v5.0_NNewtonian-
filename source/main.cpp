@@ -202,7 +202,6 @@ int main(int argc, char** argv){
     PrintExceptionLog("","\n*** Attention: Unknown exception...",log);
   }
   PrintExceptionLog("",fun::PrintStr("\nFinished execution (code=%d).\n",errcode),log);
-  //system("pause");
   return(errcode);
 }
 
