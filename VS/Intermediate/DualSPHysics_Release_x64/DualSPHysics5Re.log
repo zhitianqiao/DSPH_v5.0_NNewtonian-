@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Skipping CUDA source file ..\source\JSphGpu_InOut_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JSphGpu_NN_ker.cu (excluded from build).
+  main.cpp
+  Generating code
+  2259 of 12300 functions (18.4%) were compiled, the rest were copied from previous compilation.
+    797 functions were new in current compilation
+    752 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DualSPHysics5Re.vcxproj -> C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\src_mphase\DSPH_v5.0_NNewtonian\VS\../../../bin/windows/DSNNewtonian\DualSPHysics5.0_NNewtonian_win64.exe

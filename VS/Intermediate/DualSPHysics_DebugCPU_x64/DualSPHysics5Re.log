@@ -1,0 +1,166 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Skipping CUDA source file ..\source\FunctionsGeo3d_iker.h (excluded from build).
+  Skipping CUDA source file ..\source\FunctionsMath_iker.h (excluded from build).
+  Skipping CUDA source file ..\source\JDsPips_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JSphGpuSimple_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JCellDivGpu_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JCellDivGpuSingle_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JDsAccInput_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JSphShifting_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JReduSum_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JSphGpu_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JRelaxZone_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JDsGauge_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JSphGpu_NN_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JSphGpu_InOut_ker.cu (excluded from build).
+  Skipping CUDA source file ..\source\JWaveOrder2_ker.cu (excluded from build).
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  randomc.cpp
+  main.cpp
+  JXml.cpp
+  JWaveSpectrumGpu.cpp
+  JWaveAwasZsurf.cpp
+  JSphCpu.cpp
+  JSph.cpp
+  JCaseEParms.cpp
+  JCaseCtes.cpp
+  JCaseParts.cpp
+  JSphCfgRun.cpp
+  JDsOutputTime.cpp
+  JTimeControl.cpp
+  JSphCpuSingle.cpp
+  JDsPartsOut.cpp
+  JDsViscoInput.cpp
+  Generating Code...
+  Compiling...
+  JDsPartsInit.cpp
+  JDsMotion.cpp
+  JSphMk.cpp
+  JSphInOutZone.cpp
+  JSphInOutPoints.cpp
+  JSphInOutGridData.cpp
+  JSphInOut.cpp
+  JDsInitialize.cpp
+  JDsFtForcePoints.cpp
+  JDsFixedDt.cpp
+  JSphCpu_InOut.cpp
+  JSphCpuSingle_InOut.cpp
+  JSphBoundCorr.cpp
+  JDsAccInput.cpp
+  JCaseVtkOut.cpp
+  JCaseUserVars.cpp
+  JCaseProperties.cpp
+  JSimpleNeigs.cpp
+  JSphShifting.cpp
+  JSphInOutZsurf.cpp
+  Generating Code...
+  Compiling...
+  JSphInOutVelAwas.cpp
+  JSphInOutVel.cpp
+  JSphCpu_Tensors.cpp
+  JDsSaveDt.cpp
+  JSaveCsv2.cpp
+  JRelaxZonesGpu.cpp
+  JReadDatafile.cpp
+  JRangeFilter.cpp
+  JRadixSort.cpp
+  JPartsLoad4.cpp
+  JPartOutBi4Save.cpp
+  JPartNormalData.cpp
+  JPartFloatBi4.cpp
+  JPartDataHead.cpp
+  JPartDataBi4.cpp
+  JOutputCsv.cpp
+  JObject.cpp
+  JNormalsMarrone.cpp
+  JMotionPos.cpp
+  JMotionObj.cpp
+  Generating Code...
+  Compiling...
+  JMotionMov.cpp
+  JMotionList.cpp
+  JMotion.cpp
+  JDsMooredFloatings.cpp
+  JMLPistonsGpu.cpp
+  JLog2.cpp
+  JLinearValue.cpp
+  JFtMotionSave.cpp
+  JDsGaugeSystem.cpp
+  JDsGaugeItem.cpp
+  JException.cpp
+  JDsPips.cpp
+  JDsphConfig.cpp
+  JDataArrays.cpp
+  JDsDamping.cpp
+  JComputeMotionRef.cpp
+  JChronoObjects.cpp
+  JCfgRunBase.cpp
+  JCellDivCpuSingle.cpp
+  JCellDivCpu.cpp
+  Generating Code...
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(453): warning C4715: 'JDataArrays::NewArrayByte': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(487): warning C4715: 'JDataArrays::NewArrayUint': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(470): warning C4715: 'JDataArrays::NewArrayWord': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(504): warning C4715: 'JDataArrays::NewArrayInt': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(521): warning C4715: 'JDataArrays::NewArrayFloat': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(555): warning C4715: 'JDataArrays::NewArrayUint3': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(538): warning C4715: 'JDataArrays::NewArrayDouble': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(572): warning C4715: 'JDataArrays::NewArrayInt3': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(589): warning C4715: 'JDataArrays::NewArrayFloat3': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(606): warning C4715: 'JDataArrays::NewArrayDouble3': not all control paths return a value
+c:\users\zhitian qiao\desktop\dualsphysics-master\src_mphase\dsph_v5.0_nnewtonian\source\jdataarrays.cpp(623): warning C4715: 'JDataArrays::NewArraySeqUint': not all control paths return a value
+  Compiling...
+  JBinaryData.cpp
+  JArraysCpu.cpp
+  JAppInfo.cpp
+  FunSphKernelsCfg.cpp
+  FunGeo3d.cpp
+  Functions.cpp
+  Generating Code...
+LibJVtkLib_x64_v140_Debug.lib(FunGeo3dPolygon.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(FunGeo3dPolygon.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(FunGeo3dTriangle.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(FunGeo3dTriangle.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JClipShape.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JClipShape.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JOutputVtk.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JOutputVtk.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JShapeVtk.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JShapeVtk.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JVtkLib.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JVtkLib.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JSaveObj.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JSaveObj.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JVtkArray.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JVtkArray.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JVtkSimple.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JVtkSimple.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JVtkFieldsData.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JVtkFieldsData.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JVtkPolyData.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JVtkPolyData.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJVtkLib_x64_v140_Debug.lib(JVtkPolygonal.obj) : warning LNK4099: PDB 'LibJVtkLib.pdb' was not found with 'LibJVtkLib_x64_v140_Debug.lib(JVtkPolygonal.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJVtkLib.pdb'; linking object as if no debug info
+LibJNumexLib_x64_v140_Debug.lib(JNumex.obj) : warning LNK4099: PDB 'LibJNumexLib.pdb' was not found with 'LibJNumexLib_x64_v140_Debug.lib(JNumex.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJNumexLib.pdb'; linking object as if no debug info
+LibJNumexLib_x64_v140_Debug.lib(JNumexLib.obj) : warning LNK4099: PDB 'LibJNumexLib.pdb' was not found with 'LibJNumexLib_x64_v140_Debug.lib(JNumexLib.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJNumexLib.pdb'; linking object as if no debug info
+LibJNumexLib_x64_v140_Debug.lib(JNumexVars.obj) : warning LNK4099: PDB 'LibJNumexLib.pdb' was not found with 'LibJNumexLib_x64_v140_Debug.lib(JNumexVars.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJNumexLib.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JMLPiston1D.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JMLPiston1D.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JMLPiston2D.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JMLPiston2D.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JMLPistonData.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JMLPistonData.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JMLPistonDataXYZ.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JMLPistonDataXYZ.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JMLPistons.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JMLPistons.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JReadCsv.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JReadCsv.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JRelaxZone.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JRelaxZone.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneDrift.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneDrift.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneExternal.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneExternal.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneGridVel.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneGridVel.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JRelaxZones.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JRelaxZones.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneUniform.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JRelaxZoneUniform.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JWaveFile.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JWaveFile.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JWaveGen.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JWaveGen.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JWavePaddle.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JWavePaddle.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JWavePaddles.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JWavePaddles.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JWaveRegular.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JWaveRegular.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibJWaveGen_x64_v140_Debug.lib(JWaveSpectrum.obj) : warning LNK4099: PDB 'LibJWaveGen.pdb' was not found with 'LibJWaveGen_x64_v140_Debug.lib(JWaveSpectrum.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibJWaveGen.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(Body.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(Body.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(Connection.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(Connection.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(DSphMoorDyn.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(DSphMoorDyn.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(Environment.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(Environment.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(Line.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(Line.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(Misc.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(Misc.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(MoorDyn.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(MoorDyn.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(Output.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(Output.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+LibDSphMoorDyn_x64_v140_Debug.lib(QSlines.obj) : warning LNK4099: PDB 'LibDSphMoorDyn.pdb' was not found with 'LibDSphMoorDyn_x64_v140_Debug.lib(QSlines.obj)' or at 'C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\bin\windows\DSNNewtonian\LibDSphMoorDyn.pdb'; linking object as if no debug info
+  DualSPHysics5Re.vcxproj -> C:\Users\Zhitian Qiao\Desktop\DualSPHysics-master\src_mphase\DSPH_v5.0_NNewtonian\VS\../../../bin/windows/DSNNewtonian\DualSPHysics5.0CPU_win64_debug.exe
+  DualSPHysics5Re.vcxproj -> ../../../bin/windows/DSNNewtonian\DualSPHysics5.0CPU_win64_debug.pdb (Full PDB)
